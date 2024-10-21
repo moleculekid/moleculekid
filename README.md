@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Maria Soledad Delmotte Burgos</h1>
 <h3 align="center">A Data Enthusiast</h3>
 
-- 🔭 I’m currently working on **a prediction model for female bouldering competition results**
-
-- 🌱 I’m currently learning **Big Data & Business Intelligent**
+- 🌱 I’m currently learning **Power BI**
 
 - 📫 How to reach me **soledelmotte@gmail.com**
 
