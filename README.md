@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Maria Soledad Delmotte Burgos</h1>
-<h3 align="center">A Data Enthusiast</h3>
-
-- 🌱 I’m currently learning **Power BI**
+<h3 align="center">A Tech Enthusiast with an interest for all things Data. </h3>
 
 - 📫 How to reach me **soledelmotte@gmail.com**
 
